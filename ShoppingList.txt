@@ -1,0 +1,7 @@
+Shopping List:
+
+Hello, the following is the list of items that are to be bought:
+Apples
+Cashew
+Grapes
+Almonds
